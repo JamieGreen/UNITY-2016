@@ -1,0 +1,1 @@
+Please place your resources in this folder.
