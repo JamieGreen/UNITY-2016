@@ -1,0 +1,44 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+; Windows 7 - IDS_THEME_DISPLAYNAME_UNITY 2016
+DisplayName=UNITY 2016
+SetLogonBackground=0
+
+[Control Panel\Cursors]
+AppStarting=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_working.ani
+Arrow=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_arrow.cur
+Crosshair=
+Hand=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_link.cur
+Help=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_helpsel.cur
+IBeam=
+No=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_unavail.cur
+NWPen=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_pen.cur
+SizeAll=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_move.cur
+SizeNESW=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_nesw.cur
+SizeNS=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_ns.cur
+SizeNWSE=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_nwse.cur
+SizeWE=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_ew.cur
+UpArrow=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_up.cur
+Wait=%SystemRoot%\Resources\Themes\UNITY 2016\Cursors\aero_busy.ani
+DefaultValue=Windows Aero
+DefaultValue.MUI=@main.cpl,-1020
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\UNITY 2016\UNITY 2016.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0XFFF6F6F7
+Transparency=1
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=DABJDKT
