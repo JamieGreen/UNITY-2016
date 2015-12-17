@@ -8,3 +8,19 @@ If you want to come chat with us send me an email at JamieRobertGreen@gmail.com 
 
 If you want a peek at the project here is a link...
 http://fav.me/d9k9vmb
+
+
+
+----------Contributors----------
+
+There is a client for Windows and Mac.
+Get it here: http://bit.ly/1JEYZ6S
+
+There are also instructions for setting up the client.
+http://bit.ly/1QqOzxP
+
+
+
+----------Linux Users------------
+
+There's no client for you unfortunately so you'll have to set things up via terminal. You should be used to that by now anyways. There are, however, instructions for you too! http://bit.ly/228VGyt
