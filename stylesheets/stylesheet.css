@@ -7,10 +7,10 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #5A5A5A; }
 
 a {
-  color: #7D677C;
+  color: #6AB7C2;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -120,7 +120,7 @@ a {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
   color: #383e41;
-  background-color: #f3f6fa;
+  background-color: #F2F2F2;
   border-radius: 0.3rem; }
 .main-content pre {
   padding: 0.8rem;
@@ -129,7 +129,7 @@ a {
   font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
   color: #567482;
   word-wrap: normal;
-  background-color: #f3f6fa;
+  background-color: #F2F2F2;
   border: solid 1px #dce6f0;
   border-radius: 0.3rem; }
   .main-content pre > code {
