@@ -29,7 +29,7 @@ First you'll need to clone the repository locally so you can make changes to the
 
 Now you're probably wondering how do I make changes? I can't create my file in the client! Well you don't do it that way. You just don't. Anyways, you create your files or folders where the repository is stored on your computer locally. Then once you are done with your changes you need to submit them or rather "push" those changes to the cloud so everyone can seem them.
 
-So to do this go to the "changes" tab at the top of the client. When you do you should see a list of your changes. Write a summary (title for commit) and a discription if you want to. Hit commit to master. Now what you need to do is sync which essentially pushes your changes to the cloud and gets any other changes someone else has committed since you last sync (pulled). Once you have done that you're all set!
+So to do this go to the "changes" tab at the top of the client. When you do you should see a list of your changes. Write a summary (title for commit) and a discription if you want to. Hit commit to master. Now what you need to do is sync which essentially pushes your changes to the cloud and gets any other changes someone else has committed since your last sync (pulled). Once you have done that you're all set!
 
 
 
