@@ -1,6 +1,6 @@
 Window 10 VS for UNITY 2016
 
-Includes Theme.
+Includes Theme for November UPDATE.
 
 Instructions how to install here...
 http://fav.me/d4chfla
