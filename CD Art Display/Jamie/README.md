@@ -4,3 +4,5 @@ CD Art Display might come in handy for many users out there, as the application 
 
 Get the latest version here...
 http://www.cdartdisplay.byethost8.com/index.html
+
+neiio
