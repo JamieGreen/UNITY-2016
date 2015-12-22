@@ -10,5 +10,5 @@ http://fav.me/d4chfla
 You will need OldNewExplorer to disable ribbon and other options included...
 http://www.msfn.org/board/topic/170375-oldnewexplorer-make-your-81-explorer-work-like-win78-one/
 
-neiio
+.:neiio:.
 
