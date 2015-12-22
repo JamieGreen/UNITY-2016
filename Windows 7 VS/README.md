@@ -1,6 +1,6 @@
 # UNITY-2016
 
-Window 7 VS for UNITY 2016
+Window 7 VS for UNITY 2016.
 
 Includes Start Buttons, ExploreFrame .bmps & Theme.
 
