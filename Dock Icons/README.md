@@ -2,6 +2,6 @@
 
 Dock Icon set for Windows & OS X...
 
-PNGS Included 1024 & 64
+PNGS Included 1024x1024
 
 .:neiio:.
